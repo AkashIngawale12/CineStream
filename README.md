@@ -29,4 +29,4 @@ It integrates with the CineStream API via [TMDB](https://www.themoviedb.org/), p
 
 1. Clone the repository:
    ```bash
-   https://github.com/lallegroo/CineStream.git
+   [https://github.com/lallegroo/CineStream.git](https://github.com/AkashIngawale12/CineStream)
